@@ -1,0 +1,135 @@
+{
+    "productos": [
+      {
+        "producto_id": 1,
+        "nombre_producto": "Tarta de Chocolate",
+        "descripcion": "Deliciosa tarta de chocolate",
+        "precio": 12.99,
+        "cantidad_stock": 50,
+        "categoria_id": 2,
+        "categoria": {
+          "categoria_id": 2,
+          "nombre_categoria": "Postres",
+          "descripcion": "Endulza tu día con nuestros postres irresistibles."
+        }
+      },
+      {
+        "producto_id": 2,
+        "nombre_producto": "Helado de Fresa",
+        "descripcion": "Refrescante helado de fresa",
+        "precio": 7.99,
+        "cantidad_stock": 40,
+        "categoria_id": 2,
+        "categoria": {
+          "categoria_id": 2,
+          "nombre_categoria": "Postres",
+          "descripcion": "Endulza tu día con nuestros postres irresistibles."
+        }
+      },
+      {
+        "producto_id": 3,
+        "nombre_producto": "Brownie de Nuez",
+        "descripcion": "Irresistible brownie con nueces",
+        "precio": 10.99,
+        "cantidad_stock": 25,
+        "categoria_id": 2,
+        "categoria": {
+          "categoria_id": 2,
+          "nombre_categoria": "Postres",
+          "descripcion": "Endulza tu día con nuestros postres irresistibles."
+        }
+      },
+      {
+        "producto_id": 4,
+        "nombre_producto": "Pastel de Vainilla",
+        "descripcion": "Clásico pastel de vainilla",
+        "precio": 15.99,
+        "cantidad_stock": 20,
+        "categoria_id": 2,
+        "categoria": {
+          "categoria_id": 2,
+          "nombre_categoria": "Postres",
+          "descripcion": "Endulza tu día con nuestros postres irresistibles."
+        }
+      },
+      {
+        "producto_id": 5,
+        "nombre_producto": "Cheesecake de Frutos Rojos",
+        "descripcion": "Exquisito cheesecake con frutos rojos",
+        "precio": 18.99,
+        "cantidad_stock": 30,
+        "categoria_id": 2,
+        "categoria": {
+          "categoria_id": 2,
+          "nombre_categoria": "Postres",
+          "descripcion": "Endulza tu día con nuestros postres irresistibles."
+        }
+      },
+      {
+        "producto_id": 6,
+        "nombre_producto": "Gelatina de Limón",
+        "descripcion": "Deliciosa gelatina de limón",
+        "precio": 8.99,
+        "cantidad_stock": 35,
+        "categoria_id": 2,
+        "categoria": {
+          "categoria_id": 2,
+          "nombre_categoria": "Postres",
+          "descripcion": "Endulza tu día con nuestros postres irresistibles."
+        }
+      },
+      {
+        "producto_id": 7,
+        "nombre_producto": "Tiramisú",
+        "descripcion": "Auténtico tiramisú italiano",
+        "precio": 16.99,
+        "cantidad_stock": 22,
+        "categoria_id": 2,
+        "categoria": {
+          "categoria_id": 2,
+          "nombre_categoria": "Postres",
+          "descripcion": "Endulza tu día con nuestros postres irresistibles."
+        }
+      },
+      {
+        "producto_id": 8,
+        "nombre_producto": "Cupcakes de Vainilla",
+        "descripcion": "Irresistibles cupcakes de vainilla",
+        "precio": 9.99,
+        "cantidad_stock": 28,
+        "categoria_id": 2,
+        "categoria": {
+          "categoria_id": 2,
+          "nombre_categoria": "Postres",
+          "descripcion": "Endulza tu día con nuestros postres irresistibles."
+        }
+      },
+      {
+        "producto_id": 9,
+        "nombre_producto": "Flan de Caramelo",
+        "descripcion": "Suave y delicioso flan con caramelo",
+        "precio": 12.49,
+        "cantidad_stock": 18,
+        "categoria_id": 2,
+        "categoria": {
+          "categoria_id": 2,
+          "nombre_categoria": "Postres",
+          "descripcion": "Endulza tu día con nuestros postres irresistibles."
+        }
+      },
+      {
+        "producto_id": 10,
+        "nombre_producto": "Muffins de Arándanos",
+        "descripcion": "Muffins esponjosos con arándanos frescos",
+        "precio": 11.99,
+        "cantidad_stock": 26,
+        "categoria_id": 2,
+        "categoria": {
+          "categoria_id": 2,
+          "nombre_categoria": "Postres",
+          "descripcion": "Endulza tu día con nuestros postres irresistibles."
+        }
+      }
+    ]
+  }
+  
