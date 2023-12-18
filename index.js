@@ -1,9 +1,11 @@
 import express from "express";
 import fs from "fs";
 import bodyParser from "body-parser";
+import cors from "cors"; // Importa el middleware cors
 
 const app = express();
 app.use(bodyParser.json());
+app.use(cors()); // Habilita CORS para todas las rutas
 
 const readData = () => {
   try {
